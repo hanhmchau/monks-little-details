@@ -1,0 +1,42 @@
+{
+  "name": "monks-little-details",
+  "title": "Monk's Little Details (Bug)",
+  "description": "Things to tidy up the interface and flow",
+  "version": "0.0.1",
+  "author": "IronMonk, ironmonk88#4075, Arietta",
+  "socket": true,
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "path": "lang/ja.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    }
+  ],
+  "esmodules": [
+    "monks-little-details.js",
+    "settings.js"
+  ],
+  "styles": [
+    "css/monks-little-details.css"
+  ],
+  "url": "https://github.com/hanhmchau/monks-little-details",
+  "download": "https://github.com/hanhmchau/monks-little-details/archive/0.0.1.zip",
+  "manifest": "https://github.com/hanhmchau/monks-little-details/releases/latest/download/module.json",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9"
+}
